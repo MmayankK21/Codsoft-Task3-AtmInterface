@@ -89,10 +89,6 @@ Your current balance: ₹95000.00
    java Main
    ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 ## Author
 
 - [Mayank Wadhwa](https://github.com/MmayankK21)
