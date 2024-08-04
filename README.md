@@ -93,6 +93,3 @@ Your current balance: ₹95000.00
 
 - [Mayank Wadhwa](https://github.com/MmayankK21)
 
----
-
-Feel free to customize this README file according to your needs!
